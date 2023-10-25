@@ -1,0 +1,5 @@
+﻿  Iteration 1.6.cpp
+C:\Users\50206\Desktop\1456\Iteration 1.6\Iteration 1.6\Iteration 1.6.cpp(356,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\50206\Desktop\1456\Iteration 1.6\Iteration 1.6\Iteration 1.6.cpp(363,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\50206\Desktop\1456\Iteration 1.6\Iteration 1.6\Iteration 1.6.cpp(382,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Iteration 1.6.vcxproj -> C:\Users\50206\Desktop\1456\Iteration 1.6\x64\Debug\Iteration 1.6.exe
